@@ -1,0 +1,1 @@
+This is a basic abstract that uses the same word at least a few times. For example, a basic abstract is repeated here.
